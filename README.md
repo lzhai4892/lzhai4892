@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lzhai4892
 - 👀 I’m interested in spatial analysis, urban planning, public transit, traffic safety, autonomous vehicle
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning projects focused on transportation 
 - 📫 How to reach me lzhaigator@gmail.com
 
 <!---
