@@ -23,5 +23,5 @@ Welcome to my GitHub profile! I am interested in:
 - **Public Transit Data Platforms**: Helping agencies design new routes and estimate ridership.  
 
 ## 💬 Let’s Connect!
-- 📧 **Email**: [lzhai@kittelson.com]  
-- 💼 **LinkedIn**: [(https://www.linkedin.com/in/liang-zhai-ph-d-2258a344/)]
+- 📧 **Email**: [Liang Zhai](mailto:lzhai@kittelson.com)  
+- 💼 **LinkedIn**: [Liang Zhai](https://www.linkedin.com/in/liang-zhai-ph-d-2258a344/)
