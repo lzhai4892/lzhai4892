@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Liang Zhai!
 
 Welcome to my GitHub profile! I am interested in:
-- 🗺️ **Geospatial Data Analytics** socio-econimic data, temporal data, OD data
+- 🗺️ **Geospatial Data Analytics** socio-economic data, temporal data, O-D data
 - 🤖 **Machine Learning** transportation data, text data  
 - 🛰️ **Computer Vision** satellite images 
 - 🚍 **Public Transit** GTFS, real-time, ridership, performance measures
+- 🔄 **Simulation** traffic modeling, dynamic systems, agent-based models
 
 ## 🔍 What I Work On
 - **Public Transit Accessibility**: Analyzing challenges and improvements for better accessibility and mobility.  
@@ -13,10 +14,10 @@ Welcome to my GitHub profile! I am interested in:
 - **Travel Pattern Studies**: Using new data sources to understand movement behaviors.  
 
 ## 🛠️ Skills & Tools
-- **Programming**: Python, SQL, HTML, JavaScript  
-- **Libraries**: Pandas, NumPy, Geopandas, OpenCV, Pytorch, PyDeck, ArcPy, nltk, scikit-learn 
-- **GIS Tools**: ArcGIS, Open Source Packages
-- **Data Visualization**: Streamlit, HTML, Matplotlib  
+- **Programming**: Python, SQL, HTML, JavaScript, R  
+- **Libraries**: Pandas, NumPy, Geopandas, ArcPy, scikit-learn, OpenCV, Pytorch, PyDeck, nltk
+- **GIS Tools**: ArcGIS Pro, ESRI products, QGIS
+- **Data Visualization**: Streamlit, Plotly, Matplotlib, Seaborn
 
 ## 🚧 Current Projects
 - **Crash Narrative Analysis**: Investigating avoidable crashes involving autonomous vehicles.  
